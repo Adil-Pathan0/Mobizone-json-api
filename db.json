@@ -1,0 +1,551 @@
+{
+  "mobileData": [
+    {
+      "id": "1",
+      "name": "iPhone 15 Pro Max",
+      "company": "iPhone",
+      "price": 159900,
+      "image": "https://www.imagineonline.store/cdn/shop/files/iPhone_15_Pro_Max_Blue_Titanium_PDP_Image_Position-1__en-IN.jpg?v=1694758834&width=1445"
+    },
+    {
+      "id": "2",
+      "name": "iPhone 15 Pro",
+      "company": "iPhone",
+      "price": 144900,
+      "image": "https://m.media-amazon.com/images/I/81CgtwSII3L.jpg"
+    },
+    {
+      "id": "3",
+      "name": "iPhone 15 Plus",
+      "company": "iPhone",
+      "price": 89900,
+      "image": "https://idestiny.in/wp-content/uploads/2024/10/iPhone_15_Green_PDP_Image_Position-1__WWEN-600x600.jpg"
+    },
+    {
+      "id": "4",
+      "name": "iPhone 15",
+      "company": "iPhone",
+      "price": 79900,
+      "image": "https://m.media-amazon.com/images/I/71d7rfSl0wL.jpg"
+    },
+    {
+      "id": "5",
+      "name": "iPhone 14 Pro Max",
+      "company": "iPhone",
+      "price": 139900,
+      "image": "https://buy.gazelle.com/cdn/shop/files/iPhone_14_Pro_Max_-_Purple_-_Overlap_Trans-cropped.jpg?v=1756418393&width=1946"
+    },
+    {
+      "id": "6",
+      "name": "iPhone 14 Pro",
+      "company": "iPhone",
+      "price": 129900,
+      "image": "https://www.gizmochina.com/wp-content/uploads/2022/04/Apple-iPhone-14-Pro-500x500.png?x70461"
+    },
+    {
+      "id": "7",
+      "name": "iPhone 14 Plus",
+      "company": "iPhone",
+      "price": 79900,
+      "image": "https://gotit.org.in/wp-content/uploads/2024/07/1.jpg"
+    },
+    {
+      "id": "8",
+      "name": "iPhone 14",
+      "company": "iPhone",
+      "price": 69900,
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/261935_0_fn4zjh.png"
+    },
+    {
+      "id": "9",
+      "name": "iPhone 13 Pro Max",
+      "company": "iPhone",
+      "price": 129900,
+      "image": "https://images-cdn.ubuy.co.in/654373c36dbc2f72d322597a-apple-iphone-13-pro-max-a2484-256gb-blue.jpg"
+    },
+    {
+      "id": "10",
+      "name": "iPhone 13 Pro",
+      "company": "iPhone",
+      "price": 119900,
+      "image": "https://mobilegoo.shop/cdn/shop/files/Untitleddesign_80_332cc14e-8f61-41ba-9c0d-fffbfef82b13.png?v=1755090120&width=1946"
+    },
+    {
+      "id": "11",
+      "name": "iPhone 13 Mini",
+      "company": "iPhone",
+      "price": 64900,
+      "image": "https://m.media-amazon.com/images/I/61nPiOOv9BL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "12",
+      "name": "iPhone 13",
+      "company": "iPhone",
+      "price": 59900,
+      "image": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "13",
+      "name": "iPhone 12 Pro Max",
+      "company": "iPhone",
+      "price": 109900,
+      "image": "https://images-cdn.ubuy.co.in/67ca87fbd74ea549bc13e1fd-pre-owned-apple-iphone-12-pro-max.jpg"
+    },
+    {
+      "id": "14",
+      "name": "iPhone 12 Pro",
+      "company": "iPhone",
+      "price": 99900,
+      "image": "https://images-cdn.ubuy.co.in/676fd54910c7813370554dfa-pre-owned-apple-iphone-12-pro-carrier.jpg"
+    },
+    {
+      "id": "15",
+      "name": "iPhone 12 Mini",
+      "company": "iPhone",
+      "price": 49900,
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/234255_qkyqry.png"
+    },
+    {
+      "id": "16",
+      "name": "iPhone 12",
+      "company": "iPhone",
+      "price": 54900,
+      "image": "https://www.jiomart.com/images/product/original/491901535/apple-iphone-12-128-gb-product-red-digital-o491901535-p590441371-0-202108121850.jpeg?im=Resize=(420,420)"
+    },
+    {
+      "id": "17",
+      "name": "iPhone SE (3rd Gen)",
+      "company": "iPhone",
+      "price": 49900,
+      "image": "https://fonezone.me/cdn/shop/files/ipsered3rd.jpg?v=1725288600"
+    },
+    {
+      "id": "18",
+      "name": "iPhone 11 Pro Max",
+      "company": "iPhone",
+      "price": 109000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfaTY4cNGHNk-Vd-ZTjHqwTCnLGlw7GFahEQ&s"
+    },
+    {
+      "id": "19",
+      "name": "iPhone 11 Pro",
+      "company": "iPhone",
+      "price": 99000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfaTY4cNGHNk-Vd-ZTjHqwTCnLGlw7GFahEQ&s"
+    },
+    {
+      "id": "20",
+      "name": "iPhone 11",
+      "company": "iPhone",
+      "price": 49900,
+      "image": "https://m.media-amazon.com/images/I/71w3oJ7aWyL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Samsung Galaxy S24 Ultra",
+      "company": "Samsung",
+      "price": "₹1,29,999",
+      "image": "https://m.media-amazon.com/images/I/717Q2swzhBL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Samsung Galaxy S24+",
+      "company": "Samsung",
+      "price": "₹99,999",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/303860_voe7np.png"
+    },
+    {
+      "id": "23",
+      "name": "Samsung Galaxy S24",
+      "company": "Samsung",
+      "price": "₹79,999",
+      "image": "https://mahajanelectronics.com/cdn/shop/files/719PYirSevL._SL1500.jpg?v=1705927698"
+    },
+    {
+      "id": "24",
+      "name": "Samsung Galaxy Z Fold 5",
+      "company": "Samsung",
+      "price": "₹1,54,999",
+      "image": "https://cellbay.in/wp-content/uploads/2023/11/Samsung-Galaxy-Z-Fold-5-phantom-black.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Samsung Galaxy Z Flip 5",
+      "company": "Samsung",
+      "price": "₹99,999",
+      "image": "https://m.media-amazon.com/images/I/71U+YdsvMPL.jpg"
+    },
+    {
+      "id": "26",
+      "name": "Samsung Galaxy S23 Ultra",
+      "company": "Samsung",
+      "price": "₹1,24,999",
+      "image": "https://m.media-amazon.com/images/I/41x507Qk7oL.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Samsung Galaxy S23+",
+      "company": "Samsung",
+      "price": "₹94,999",
+      "image": "https://m.media-amazon.com/images/I/41x507Qk7oL.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Samsung Galaxy S23",
+      "company": "Samsung",
+      "price": "₹74,999",
+      "image": "https://rukminim2.flixcart.com/image/300/300/xif0q/mobile/t/0/g/-original-imah4zp7fvqp8wev.jpeg"
+    },
+    {
+      "id": "29",
+      "name": "Samsung Galaxy A73 5G",
+      "company": "Samsung",
+      "price": "₹41,999",
+      "image": "https://rukminim2.flixcart.com/image/704/844/l3xcr680/mobile/k/j/f/-original-imagexf3pyq5m5va.jpeg?q=20&crop=false"
+    },
+    {
+      "id": "210",
+      "name": "Samsung Galaxy A54 5G",
+      "company": "Samsung",
+      "price": "₹38,999",
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/o/w/q/-original-imagnrhkjwg8ngzh.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "211",
+      "name": "Samsung Galaxy A34 5G",
+      "company": "Samsung",
+      "price": "₹30,999",
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/a/a/v/galaxy-a34-5g-sm-a346ezkeins-samsung-original-imagnpz4h7xg6pgg.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "212",
+      "name": "Samsung Galaxy A14 5G",
+      "company": "Samsung",
+      "price": "₹16,499",
+      "image": "https://cdn.afterdawn.fi/hardware/800/14414.jpg"
+    },
+    {
+      "id": "213",
+      "name": "Samsung Galaxy M54 5G",
+      "company": "Samsung",
+      "price": "₹26,999",
+      "image": "https://www.fonehaus.com.pg/wp-content/uploads/samsung_galaxy_m54_5g_128gb_8gb_ram_silver-300x300.png"
+    },
+    {
+      "id": "214",
+      "name": "Samsung Galaxy M34 5G",
+      "company": "Samsung",
+      "price": "₹18,999",
+      "image": "https://m.media-amazon.com/images/I/91ItZJh1FDL.jpg"
+    },
+    {
+      "id": "215",
+      "name": "Samsung Galaxy M14 5G",
+      "company": "Samsung",
+      "price": "₹13,999",
+      "image": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/305908_0_vgkofp.png"
+    },
+    {
+      "id": "216",
+      "name": "Samsung Galaxy F54 5G",
+      "company": "Samsung",
+      "price": "₹27,999",
+      "image": "https://www.logicainfoway.com/wp-content/uploads/2023/12/100-2.jpg"
+    },
+    {
+      "id": "217",
+      "name": "Samsung Galaxy F34 5G",
+      "company": "Samsung",
+      "price": "₹18,999",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/164728963/in-feature-galaxy-f34-8gb-ram-538392710?$FB_TYPE_A_MO_JPG$"
+    },
+    {
+      "id": "218",
+      "name": "Samsung Galaxy F14 5G",
+      "company": "Samsung",
+      "price": "₹12,999",
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/q/b/t/-original-imagtywahysgub6f.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "219",
+      "name": "Samsung Note 20 Ultra",
+      "company": "Samsung",
+      "price": "₹1,04,999",
+      "image": "https://images.samsung.com/is/image/samsung/assets/ie/smartphones/galaxy-note20/specs/Mystic-White-Note-20-Ultra.jpeg?$163_346_PNG$"
+    },
+    {
+      "id": "220",
+      "name": "Samsung Galaxy Note 20",
+      "company": "Samsung",
+      "price": "₹77,999",
+      "image": "https://images.samsung.com/is/image/samsung/assets/latin_en/smartphones/galaxy-note20/specs/Mystic-Bronze-Note-20-Ultra.jpeg?$163_346_PNG$"
+    },
+    {
+      "id": "31",
+      "name": "Nothing Phone (1)",
+      "model": "A063",
+      "color": "Black",
+      "storage": "128GB",
+      "price": 28999,
+      "releaseYear": 2022,
+      "image": "https://cdn.shopify.com/s/files/1/0586/3270/0077/products/phone1black1600x2160.png?v=1658472623",
+      "company": "Nothing"
+    },
+    {
+      "id": "32",
+      "name": "Nothing Phone (1)",
+      "model": "A063",
+      "color": "White",
+      "storage": "256GB",
+      "price": 31999,
+      "releaseYear": 2022,
+      "image": "https://cdn.shopify.com/s/files/1/0586/3270/0077/products/phone1black1600x2160.png?v=1658472623",
+      "company": "Nothing"
+    },
+    {
+      "id": "33",
+      "name": "Nothing Phone (2)",
+      "model": "A142",
+      "color": "Dark Gray",
+      "storage": "256GB",
+      "price": 45999,
+      "releaseYear": 2023,
+      "image": "https://m-cdn.phonearena.com/images/phones/84035-350/Nothing-Phone-2.webp?w=1",
+      "company": "Nothing"
+    },
+    {
+      "id": "34",
+      "name": "Nothing Phone (2)",
+      "model": "A142",
+      "color": "White",
+      "storage": "512GB",
+      "price": 49999,
+      "releaseYear": 2023,
+      "image": "https://m-cdn.phonearena.com/images/phones/84035-350/Nothing-Phone-2.webp?w=1",
+      "company": "Nothing"
+    },
+    {
+      "id": "35",
+      "name": "Nothing Phone (2a)",
+      "model": "A142R",
+      "color": "Black",
+      "storage": "128GB",
+      "price": 23999,
+      "releaseYear": 2024,
+      "image": "https://i.gadgets360cdn.com/products/large/nothing-phone-2-676x800-1689130263.jpg?downsize=*:420&output-quality=80",
+      "company": "Nothing"
+    },
+    {
+      "id": "36",
+      "name": "Nothing Phone (2a)",
+      "model": "A142R",
+      "color": "White",
+      "storage": "256GB",
+      "price": 26999,
+      "releaseYear": 2024,
+      "image": "https://i.gadgets360cdn.com/products/large/nothing-phone-2-676x800-1689130263.jpg?downsize=*:420&output-quality=80",
+      "company": "Nothing"
+    },
+    {
+      "id": "37",
+      "name": "Nothing Phone (2a)",
+      "model": "A142R",
+      "color": "Blue",
+      "storage": "128GB",
+      "price": 24999,
+      "releaseYear": 2024,
+      "image": "https://i.gadgets360cdn.com/products/large/nothing-phone-2-676x800-1689130263.jpg?downsize=*:420&output-quality=80",
+      "company": "Nothing"
+    },
+    {
+      "id": "38",
+      "name": "Nothing Phone (2a)",
+      "model": "A142R",
+      "color": "Blue",
+      "storage": "256GB",
+      "price": 27999,
+      "releaseYear": 2024,
+      "image": "https://i.gadgets360cdn.com/products/large/nothing-phone-2-676x800-1689130263.jpg?downsize=*:420&output-quality=80",
+      "company": "Nothing"
+    },
+    {
+      "id": "39",
+      "name": "Nothing Phone (1) Limited Edition",
+      "model": "A063-LTD",
+      "color": "Transparent Black",
+      "storage": "256GB",
+      "price": 33999,
+      "releaseYear": 2022,
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-1.jpg",
+      "company": "Nothing"
+    },
+    {
+      "id": "40",
+      "name": "Nothing Phone (2) Special Edition",
+      "model": "A142-SE",
+      "color": "Red",
+      "storage": "512GB",
+      "price": 52999,
+      "releaseYear": 2023,
+      "image": "https://m.media-amazon.com/images/I/71X+PSKYYJL._UF350,350_QL80_.jpg",
+      "company": "Nothing"
+    },
+    {
+      "id": "41",
+      "name": "Nothing Phone (2a)",
+      "model": "A142R",
+      "color": "Yellow",
+      "storage": "128GB",
+      "price": 24999,
+      "releaseYear": 2024,
+      "image": "https://i.gadgets360cdn.com/products/large/nothing-phone-2-676x800-1689130263.jpg?downsize=*:420&output-quality=80",
+      "company": "Nothing"
+    },
+    {
+      "id": "42",
+      "name": "Nothing Phone (1)",
+      "model": "A063",
+      "color": "Black",
+      "storage": "64GB",
+      "price": 21999,
+      "releaseYear": 2022,
+      "image": "https://cdn.shopify.com/s/files/1/0586/3270/0077/products/phone1black1600x2160.png?v=1658472623",
+      "company": "Nothing"
+    },
+    {
+      "id": "43",
+      "name": "Nothing Phone (2)",
+      "model": "A142",
+      "color": "White",
+      "storage": "128GB",
+      "price": 42999,
+      "releaseYear": 2023,
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/h/i/x/-original-imagyr3vfpqrpkbv.jpeg?q=90&crop=false",
+      "company": "Nothing"
+    },
+    {
+      "id": "44",
+      "name": "Nothing Phone (2)",
+      "model": "A142",
+      "color": "Dark Gray",
+      "storage": "512GB",
+      "price": 49999,
+      "releaseYear": 2023,
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/h/i/x/-original-imagyr3vfpqrpkbv.jpeg?q=90&crop=false",
+      "company": "Nothing"
+    },
+    {
+      "id": "45",
+      "name": "Nothing Phone (2a)",
+      "model": "A142R",
+      "color": "Mint Green",
+      "storage": "128GB",
+      "price": 24999,
+      "releaseYear": 2024,
+      "image": "https://i.gadgets360cdn.com/products/large/nothing-phone-2-676x800-1689130263.jpg?downsize=*:420&output-quality=80",
+      "company": "Nothing"
+    },
+    {
+      "id": "111",
+      "company": "Realme",
+      "name": "Realme GT Neo 3",
+      "image": "https://m.media-amazon.com/images/I/71LyQvuMqtL._UF1000,1000_QL80_.jpg",
+      "price": 39999,
+      "ramRom": "8GB+128GB"
+    },
+    {
+      "id": "112",
+      "company": "Realme",
+      "name": "Realme Narzo 60 Pro",
+      "image": "https://m.media-amazon.com/images/I/51lAmBz6qLL.jpg",
+      "price": 23999,
+      "ramRom": "8GB+128GB"
+    },
+    {
+      "id": "113",
+      "company": "Realme",
+      "name": "Realme 11 Pro+ 5G",
+      "image": "https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtY2RuLnVidXkuY28uaW4vNjViZjA4YjAxNDFjODMxNDhhMjMxZGY3LXJlYWxtZS0xMS1wcm8tNWctYmxhY2stMTI4LWdiLTgtZ2IuanBn.jpg",
+      "price": 28999,
+      "ramRom": "12GB+256GB"
+    },
+    {
+      "id": "114",
+      "company": "Realme",
+      "name": "Realme C55",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51nGN1Cx6GL._AC_UL495_SR435,495_.jpg",
+      "price": 10999,
+      "ramRom": "6GB+128GB"
+    },
+    {
+      "id": "115",
+      "company": "Realme",
+      "name": "Realme Narzo N55",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/o/w/narzo-n55-rmx3710-realme-original-imagzuft22eh48at.jpeg?q=70",
+      "price": 12999,
+      "ramRom": "6GB+128GB"
+    },
+    {
+      "id": "116",
+      "company": "Realme",
+      "name": "Realme GT 2 Pro",
+      "image": "https://rukminim2.flixcart.com/image/312/312/l3rmzrk0/mobile/3/o/b/-original-imagetmeqj2tndqx.jpeg?q=70",
+      "price": 49999,
+      "ramRom": "12GB+256GB"
+    },
+    {
+      "id": "117",
+      "company": "Realme",
+      "name": "Realme 10 Pro 5G",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/j/h/-original-imagkp8fvenrrkth.jpeg?q=70",
+      "price": 18999,
+      "ramRom": "8GB+128GB"
+    },
+    {
+      "id": "118",
+      "company": "Realme",
+      "name": "Realme 9 Pro+",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-9-pro-plus.jpg",
+      "price": 24999,
+      "ramRom": "8GB+128GB"
+    },
+    {
+      "id": "119",
+      "company": "Realme",
+      "name": "Realme Narzo 50 Pro",
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/o/o/v/narzo-50-pro-5g-rmx3395-realme-original-imagggt8gyxmjwba.jpeg?q=90&crop=false",
+      "price": 12999,
+      "ramRom": "6GB+128GB"
+    },
+    {
+      "id": "120",
+      "company": "Realme",
+      "name": "Realme 8 Pro",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-8-pro-ofic.jpg",
+      "price": 17999,
+      "ramRom": "8GB+128GB"
+    },
+    {
+      "id": "121",
+      "company": "Realme",
+      "name": "Realme C33",
+      "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/mobile/e/n/j/-original-imaghuf9vphhbnkc.jpeg?q=90&crop=false",
+      "price": 8999,
+      "ramRom": "4GB+64GB"
+    },
+    {
+      "id": "122",
+      "company": "Realme",
+      "name": "Realme X7 Max 5G",
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-x7-max-5g.jpg",
+      "price": 26999,
+      "ramRom": "12GB+256GB"
+    },
+    {
+      "id": "dbba",
+      "name": "apple",
+      "price": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Mrrnn0RfimZFjrR5AbqOfjoGwPCB8iAlXQ&s"
+    }
+  ]
+}
